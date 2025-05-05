@@ -16,12 +16,12 @@ Attached is a snippet of the Quiz portion from the Deployed Application on Rende
 ![Demonstration](./images/CICDRender.png)
 
 ## Technologies
-React (Vite)
-Node.js
-Express
-MongoDB (via Mongoose)
-Cypress
-GitHub Actions
+- React (Vite)
+- Node.js
+- Express
+- MongoDB (via Mongoose)
+- Cypress
+- GitHub Actions
 
 ## License
 This project is licensed under the MIT license.
